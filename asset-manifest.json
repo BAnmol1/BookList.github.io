@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookList.github.io/static/css/main.ceed921a.css",
+    "main.js": "/BookList.github.io/static/js/main.6b737f6d.js",
+    "index.html": "/BookList.github.io/index.html",
+    "main.ceed921a.css.map": "/BookList.github.io/static/css/main.ceed921a.css.map",
+    "main.6b737f6d.js.map": "/BookList.github.io/static/js/main.6b737f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceed921a.css",
+    "static/js/main.6b737f6d.js"
+  ]
+}
